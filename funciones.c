@@ -27,3 +27,4 @@ void intercambiar(int *x, int *y) {
 int restar(int a, int b) {
     return a - b;
 }
+//Valió la pena.
